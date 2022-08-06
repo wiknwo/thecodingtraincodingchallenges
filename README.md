@@ -8,3 +8,6 @@ some goal or create some visualization and the viewer programs along in a sort o
 
 Below is a list containing short descriptions of all the coding challenges I have attempted on Daniel Shiffman's YouTube channel, The Coding Train. 
 
+## Matrix Digital Rain
+
+This is a simulation of the digital rain effect in the movie 'The Matrix'.
